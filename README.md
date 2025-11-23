@@ -47,4 +47,4 @@ We have a healthy **86.2% Good Loan Rate**. However, **13.8% of loans** are "Cha
 1.  **Tighten Credit Policy:** Increase scrutiny on 60-month tenure loans for Debt Consolidation.
 2.  **Diversify:** Market lower-risk products like "Home Improvement" loans to balance the portfolio.
 3.  **Regional Focus:** Implement retention strategies in **California**, the bank's largest market.
-## 3. Key Findings & Visualizations
+
